@@ -9,7 +9,7 @@ const Hero = () => (
       </span>
       <br />
       <span className="text-blue-600">
-        Welcome to my photography portfolio.
+        Welcome to my content design portfolio.
       </span>
     </h2>
   </div>
